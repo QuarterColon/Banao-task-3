@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47759751398",
+    "project_id": "banao-task-3-5114a",
+    "storage_bucket": "banao-task-3-5114a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47759751398:android:1c8a324f9d6a812324a327",
+        "android_client_info": {
+          "package_name": "com.example.banao_task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXE5FGVS3Lw1N2-5nxS9xa9fnNmEAZe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
